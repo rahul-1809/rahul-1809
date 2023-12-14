@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahul-1809
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/patnala-rahul-0ba801292
 
